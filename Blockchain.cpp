@@ -11,6 +11,7 @@ Blockchain::Blockchain()
 
 void Blockchain::AddBlock(Block bNew)
 {
+  cout<<"Blockchain using OpenMP with Threads: "<< THREADS << endl;
   cout<<"Difficulty: "<<_nDifficulty << endl;
   int i, threads = THREADS;
   bNew.sPrevHash = _GetLastBlock().GetHash();

@@ -17,7 +17,12 @@ int main()
 }
 
 /* 
+Compile on OS X
 serial: gcc -lstdc++ -o TestChain -std=c++11 -stdlib=libc++ -x c++ main.cpp Block.cpp Blockchain.cpp sha256.cpp
 ./TestChain
 openmp: gcc -Xpreprocessor -fopenmp -lomp -I"$(brew --prefix libomp)/include" -L"$(brew --prefix libomp)/lib" -lstdc++ -std=c++11 -stdlib=libc++ -x c++ main.cpp Block.cpp Blockchain.cpp sha256.cpp -o TestChain
+
+Compile on Ubuntu:
+serial: gcc main.cpp Block.cpp Blockchain.cpp sha256.cpp -lstdc++ -o Testchain
+openmp: gcc main.cpp Block.cpp Blockchain.cpp sha256.cpp -lstdc++ -fopenmp -o Testchain
 */

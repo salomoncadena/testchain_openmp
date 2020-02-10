@@ -1,0 +1,97 @@
+time ./Testchain01 && time ./Testchain02 && time ./Testchain03 && time ./Testchain04 && time ./Testchain05 && time ./Testchain06 && time ./Testchain07 && time ./Testchain08 && time ./Testchain09 && time ./Testchain10 && time ./Testchain11 && time ./Testchain12
+Mining block 1...
+Blockchain using OpenMP with Threads: 1
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	5m46,144s
+user	5m45,914s
+sys	0m0,040s
+Mining block 1...
+Blockchain using OpenMP with Threads: 2
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	3m10,314s
+user	6m20,614s
+sys	0m0,000s
+Mining block 1...
+Blockchain using OpenMP with Threads: 3
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	2m16,575s
+user	6m49,706s
+sys	0m0,004s
+Mining block 1...
+Blockchain using OpenMP with Threads: 4
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m50,709s
+user	7m22,816s
+sys	0m0,000s
+Mining block 1...
+Blockchain using OpenMP with Threads: 5
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m35,978s
+user	7m59,842s
+sys	0m0,004s
+Mining block 1...
+Blockchain using OpenMP with Threads: 6
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m26,180s
+user	8m37,040s
+sys	0m0,000s
+Mining block 1...
+Blockchain using OpenMP with Threads: 7
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	2m39,513s
+user	18m36,514s
+sys	0m0,008s
+Mining block 1...
+Blockchain using OpenMP with Threads: 8
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	2m19,905s
+user	18m39,323s
+sys	0m0,004s
+Mining block 1...
+Blockchain using OpenMP with Threads: 9
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	2m6,185s
+user	18m55,827s
+sys	0m0,004s
+Mining block 1...
+Blockchain using OpenMP with Threads: 10
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m52,686s
+user	18m46,917s
+sys	0m0,016s
+Mining block 1...
+Blockchain using OpenMP with Threads: 11
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m43,097s
+user	18m54,085s
+sys	0m0,032s
+Mining block 1...
+Blockchain using OpenMP with Threads: 12
+Difficulty: 7
+Block mined: 00000009ed27e80ab7f1a576345f12c07c2c849fdd640b6830846646903e8f10 Nonce: 114279574
+
+real	1m35,658s
+user	19m4,390s
+sys	0m0,012s
